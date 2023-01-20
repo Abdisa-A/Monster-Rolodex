@@ -4,4 +4,4 @@
 #### * Filtering Elements
 #### * Class and functional components
 #### * Component life cycle
-#### * State and updateing states
+#### * State and updating states
